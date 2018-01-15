@@ -11,3 +11,5 @@
 
 # Programmering 2 delen
 Jag skall bygga en Object Relational Mapper (ORM) som gör att jag slipper skriva repetitiv SQl kod. Samt skall jag använda mig utav RESTful routing (REST) som gör att jag kan använda HTTP verb ihop med URL för att göra sidan mer effektiv.
+
+![alt text](https://github.com/itggot-hargaaya-idris/brownie/blob/master/er-diagram.png?raw=true)
