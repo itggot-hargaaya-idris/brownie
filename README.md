@@ -13,4 +13,4 @@ Jag skall bygga en Object Relational Mapper (ORM) som gör att jag slipper skriv
 
 # ER-Diagram
 
-![alt text](https://github.com/itggot-hargaaya-idris/brownie/blob/master/20180129_091607.jpg)
+![alt text](https://github.com/itggot-hargaaya-idris/brownie/blob/master/20180129_094454.jpg)
